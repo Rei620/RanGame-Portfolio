@@ -12,3 +12,4 @@
 - **ReStart**     : リトライボタンでシーン再読み込み
 
 ## プレイ動画
+https://youtu.be/WB5JS_fat5k
